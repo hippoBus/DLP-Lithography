@@ -1,10 +1,9 @@
-# Front End DLP Projector Board
+# DLP Lithography
 
 ## Introduction
-Irvine HackerFab
 
-Creating a board that converts HDMI to V-by-One 2 lane
+An affordable lithography alternative using projector IP 
+from Texas Instrument’s DLP for Ultraviolet (UV) 3D Printers, [DLP301S](https://www.ti.com/product/DLP301S).
 
-## Goals
-
-## Contact
+Custom optical engine simulated using Ansys Zemax OpticStudio, 
+and PCB design on KiCad.
