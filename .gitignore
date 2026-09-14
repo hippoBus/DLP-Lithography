@@ -36,6 +36,10 @@ fp-info-cache       # Footprint Cache
 *.dsn               # SPECCTRA DSN File
 *.ses               # SPECCTRA Session File
 
+# Backup files from KiCad 10
+*.bak
+.history
+
 # Exported BOM files
 #*.xml
 #*.csv
